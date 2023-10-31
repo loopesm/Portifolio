@@ -1,0 +1,13 @@
+/* INÍCIO DAS CONFIGURAÇÕES GERIAS DA PÁGINA */
+#corpo-pagina-geral{
+    background: #FFF;
+}
+
+#corpo-conteudo{
+    background: #FFF;
+    margin: 0 auto;
+    width: 75%;
+    text-align: center;
+}
+
+/* FIM DAS CONFIGURAÇÕES GERIAS DA PÁGINA */
