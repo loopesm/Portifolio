@@ -1,6 +1,8 @@
 /* INÍCIO DAS CONFIGURAÇÕES GERIAS DA PÁGINA */
 #corpo-pagina-geral{
     background: #FFF;
+    margin: 0 auto;
+    width: 100%;
 }
 
 #corpo-conteudo{
