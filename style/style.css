@@ -3,17 +3,14 @@
     border: 1px solid red;
 }
 
-#cl{
-    background: #FFF;
+#corpo-pagina-geral{
     margin: 0 auto;
     width: 100%;
 }
 
 #corpo-conteudo{
-    background: #FFF;
     margin: 0 auto;
     width: 75%;
-    text-align: center;
 }
 
 .linhaNomePortifolio{
