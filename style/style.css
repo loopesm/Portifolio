@@ -1,4 +1,8 @@
 /* INÍCIO DAS CONFIGURAÇÕES GERIAS DA PÁGINA */
+*{
+    border: 1px solid red;
+}
+
 #corpo-pagina-geral{
     background: #FFF;
     margin: 0 auto;
